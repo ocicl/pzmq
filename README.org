@@ -1,0 +1,10 @@
+* pzmq
+
+ZeroMQ 4.0+ Common Lisp bindings.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orivej/pzmq.git   |
+| commit  | 6f7b2ca  |
+| systems | pzmq |
+|---------+-------------------------------------------|
+
